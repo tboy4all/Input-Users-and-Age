@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Input-Users-and-Age/static/css/main.cce92c65.css",
+    "main.js": "/Input-Users-and-Age/static/js/main.fbe9cd75.js",
+    "static/js/787.55474ef6.chunk.js": "/Input-Users-and-Age/static/js/787.55474ef6.chunk.js",
+    "index.html": "/Input-Users-and-Age/index.html",
+    "main.cce92c65.css.map": "/Input-Users-and-Age/static/css/main.cce92c65.css.map",
+    "main.fbe9cd75.js.map": "/Input-Users-and-Age/static/js/main.fbe9cd75.js.map",
+    "787.55474ef6.chunk.js.map": "/Input-Users-and-Age/static/js/787.55474ef6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cce92c65.css",
+    "static/js/main.fbe9cd75.js"
+  ]
+}
